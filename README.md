@@ -1,9 +1,18 @@
-Hi there 👋 My name is Mateusz Kwiatkowski. I am currently a student of Computer Science (programming technologies) at the Społeczna Akademia Nauk in Lodz.
-My areas of interest include creating programs, applications and working with databases. I would like to grow and develop my skills in these fields.
+Hi there! 👋
 
-Tools C#, HTML, CSS, React, SQL Server, SSMS, Visual Studio Code, IntelliJ IDEA, 
+**Mateusz Kwiatkowski**
 
-🔭 I’m currently working on my own database
-🌱 I’m currently learning how to create APIs for file handling and inegration with a database
-📫 How to reach me: ada ambroziak (Facebook, Instagram)
-😄 Pronouns: 
+💻 About Me
+
+I am currently a Computer Science student specializing in Programming Technologies at the Społeczna Akademia Nauk in Łódź. I’m passionate about creating innovative software solutions, building intuitive applications, and working with databases. My goal is to continuously grow and develop my skills in these fields, while contributing to meaningful projects.
+
+🛠️ Tools & Technologies
+
+- Programming Languages: C#, HTML, CSS
+- Frameworks & Libraries: React, ASP.NET Core
+- Database Management: SQL Server, SSMS
+- Development Tools: Visual Studio Code, IntelliJ IDEA, Visual Studio 2022
+
+🚀 What I'm Working On
+- 🔭 Personal Project: Developing a robust database system.
+- 🌱 Learning: Building APIs for file handling and seamless database integration.
